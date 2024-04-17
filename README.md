@@ -3,7 +3,7 @@ Raffle
 
 ### Subscribe and like! <img src="https://github.com/keygenqt/backupz/blob/main/data/other/star.gif?raw=true" width="16px"/>
 
-An application written specifically for a book giveaway for my telegram channel.
+An application written specifically for a giveaway for my telegram channel.
 
 ### Preview
 
