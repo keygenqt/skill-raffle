@@ -3,7 +3,7 @@ Raffle
 
 ### Subscribe and like! <img src="https://github.com/keygenqt/backupz/blob/main/data/other/star.gif?raw=true" width="16px"/>
 
-An application written specifically for a draw on my telegram channel.
+An application written specifically for prize drawings on my Telegram channel.
 
 ### Preview
 
